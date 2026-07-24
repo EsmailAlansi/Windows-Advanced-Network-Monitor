@@ -1,0 +1,29 @@
+# PowerShell
+*.ps1xml
+*.psm1
+*.psd1
+
+# Generated reports
+NetworkReport_*.html
+NetworkReport_*.csv
+ConnectionChanges_*.log
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Temporary files
+*.tmp
+*.temp
+~$*
+
+# Output directories
+reports/
+logs/
+output/

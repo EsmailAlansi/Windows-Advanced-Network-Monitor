@@ -1,0 +1,4 @@
+[2026-07-25 10:00:00] [NEW] TCP 192.168.1.100:54321 -> 142.250.190.46:443 (chrome.exe, PID: 1042) - Geo: US, Google LLC [AS15169]
+[2026-07-25 10:00:05] [NEW] UDP 192.168.1.100:53210 -> 8.8.8.8:53 (svchost.exe, PID: 884) - Geo: US, Google LLC [AS15169]
+[2026-07-25 10:01:10] [CLOSED] TCP 192.168.1.100:54321 -> 142.250.190.46:443
+[2026-07-25 10:05:00] [ALERT] Suspicious Connection: TCP 192.168.1.100:4444 -> 185.199.108.153:443 (powershell.exe, PID: 4321) - Possible threat detected!
